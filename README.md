@@ -1,3 +1,5 @@
+### Note: This was the repository that was presented during Demo Day at Lighthouse Labs
+
 # MyMeals
 Our application provides filtered recipes for personalized meal planning and grocery shopping. You can filter by cuisine, ingredients, and dietary restrictions, and our interface offers cooking tips and tricks for a seamless experience. Whether you are a seasoned chef, or a beginner cook, you can enjoy delicious and nutritious meals, without the hassle!
 
